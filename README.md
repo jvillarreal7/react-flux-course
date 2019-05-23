@@ -1,4 +1,13 @@
 # react-flux-course
-Administration app using React and Flux.
+
+This application uses the following technologies:
+
+- React
+- React Router
+- Flux
+- Node
+- Gulp
+- Browserify
+- Bootstrap
 
 For learning purposes only.
