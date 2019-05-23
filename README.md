@@ -11,3 +11,5 @@ This application uses the following technologies:
 - Bootstrap
 
 For learning purposes only.
+
+Link to course: https://app.pluralsight.com/library/courses/react-flux-building-applications/
