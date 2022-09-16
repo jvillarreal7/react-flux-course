@@ -9,7 +9,7 @@
   "author": "Jaime Villarreal",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^3.3.5",
+    "bootstrap": "^3.4.1",
     "browserify": "^10.2.4",
     "flux": "^2.0.3",
     "gulp": "^3.9.0",
